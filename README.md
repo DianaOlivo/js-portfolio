@@ -1,2 +1,2 @@
 # js-portfolio
-proyecto para curso de webpakc
+proyecto para curso de webpack
